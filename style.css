@@ -1,0 +1,31 @@
+div {
+	text-align: center;
+}
+* {
+	font-family: "Source Code Pro", sans-serif;
+	color: #030e12;
+	background-color: #fcde67;
+}
+ul{
+	list-style-type: none;
+
+}
+a:hover {
+	color: black;
+	background-color: #5bccf6; 
+}
+ul {
+	padding-left: 0;
+}
+img.tamales{
+	width: 595px;
+	height: 398px;
+}
+img.pizza{
+	width: 595px;
+	height: 595px;	
+}
+img.lemon-pie{
+	width: 595px;
+	height: 595px;	
+}
